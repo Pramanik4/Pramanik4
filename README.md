@@ -2,9 +2,11 @@
 <h3 align="center">I am Fascinated in the domian of ML || DL || AI</h3>
 <h4 align="left">About Me:</h4>
 
-- 🌱 I’m currently learning **Data Analysis, ML**
+-  I’m currently learning **Data Analysis, ML**
 
-- 📫 How to reach me **poojapramanick2001@gmail.com**
+- How to reach me **poojapramanick2001@gmail.com**
+
+- I would love to colabrate in Data analysis/ ML Project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
