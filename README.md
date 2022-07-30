@@ -20,7 +20,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=pramanik4&&show_icons=true&title_color=F4C2C2&icon_color=F4C2C2&text_color=F4C2C2&bg_color=000000">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramanik4&&show_icons=true&theme=radical">
+<img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramanik4&&show_icons=true&theme=radical">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
