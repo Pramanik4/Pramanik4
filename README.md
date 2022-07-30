@@ -22,8 +22,6 @@
 
 <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pramanik4&&show_icons=true&theme=radical">
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pramanik4)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=Pramanik4)
+
